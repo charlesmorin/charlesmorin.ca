@@ -1,0 +1,9 @@
+{
+	"title" : "Skills",
+	"skills" : {
+		"Software Development" : "80",
+		"DevOps" : "95",
+		"Cloud" : "65",
+		"Docker" : "65"
+	}
+}

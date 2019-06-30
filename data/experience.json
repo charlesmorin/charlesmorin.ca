@@ -1,0 +1,25 @@
+{
+	"title" : "Experience",
+	"experience" : [
+		{
+			"timeperiod" : "November 2017 - present",
+			"company" : "Government of Canada",
+			"description" : "DevOps Adoption Lead"
+		},
+		{
+			"timeperiod" : "November 2016 - present",
+			"company" : "Government of Canada",
+			"description" : "IT Specialist"
+		},
+		{
+			"timeperiod" : "September 2016 - May 2017",
+			"company" : "Government of Canada",
+			"description" : "Enterprise Software Developer"
+		},
+		{
+			"timeperiod" : "March 2006 - September 2016",
+			"company" : "Government of Canada",
+			"description" : "Java Software Developer"
+		}
+	]
+}
