@@ -1,4 +1,4 @@
-baseURL = "https://charlesmorin.ca/"
+baseURL = "https://charlesmorin.github.io"
 languageCode = "en-us"
 title = "charlesmorin.ca"
 theme = "hugo-uilite"
