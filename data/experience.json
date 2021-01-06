@@ -2,6 +2,11 @@
 	"title" : "Experience",
 	"experience" : [
 		{
+			"timeperiod" : "October 2020 - present",
+			"company" : "Government of Canada",
+			"description" : "A/ IT Senior Specialist"
+		},
+		{
 			"timeperiod" : "November 2017 - present",
 			"company" : "Government of Canada",
 			"description" : "DevOps Adoption Lead"
