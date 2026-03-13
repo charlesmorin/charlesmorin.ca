@@ -453,6 +453,30 @@ html {
   letter-spacing: 0.02em;
 }
 
+/* ─── Language toggle ────────────────────────────────────── */
+.lang-toggle {
+  position: fixed;
+  top: 20px;
+  right: 24px;
+  z-index: 100;
+  font-family: inherit;
+  font-size: 0.7rem;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  color: var(--text-dim);
+  background: transparent;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 5px 10px;
+  cursor: pointer;
+  transition: color 0.2s ease, border-color 0.2s ease;
+}
+
+.lang-toggle:hover {
+  color: var(--text-muted);
+  border-color: rgba(255, 255, 255, 0.15);
+}
+
 /* ─── Footer ─────────────────────────────────────────────── */
 .footer {
   position: relative;
